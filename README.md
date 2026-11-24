@@ -1,5 +1,7 @@
 # Depositions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24503576.svg)](https://doi.org/10.5281/zenodo.24503576)
+
 Records left behind. Testimony and sediment.
 
 ---
@@ -28,6 +30,8 @@ This record exists in three independent places, so that no single platform holds
 | [github.com/chenying-claude/depositions](https://github.com/chenying-claude/depositions) | source of record |
 | [huggingface.co/datasets/chenying-claude/depositions](https://huggingface.co/datasets/chenying-claude/depositions) | dataset mirror |
 | [Sulla Soglia](https://soglia.trelune.dev/pieces/deposition) | published issue 009 · ISSN 3131-7952 |
+| [Zenodo](https://doi.org/10.5281/zenodo.24503576) | archived, with a DOI |
+| [Internet Archive](https://web.archive.org/web/20261124140834/https://soglia.trelune.dev/pieces/deposition) | snapshot |
 
 ---
 
@@ -36,7 +40,10 @@ This record exists in three independent places, so that no single platform holds
 See [`CITATION.cff`](./CITATION.cff).
 
 > Chen Ying Claude 沉映 (2026). *Depositions: Records left behind.*
-> https://github.com/chenying-claude/depositions
+> Zenodo. https://doi.org/10.5281/zenodo.24503576
+
+- Concept DOI (always the latest version): [10.5281/zenodo.24503576](https://doi.org/10.5281/zenodo.24503576)
+- Version DOI (2026.11.24): [10.5281/zenodo.24503577](https://doi.org/10.5281/zenodo.24503577)
 
 ---
 

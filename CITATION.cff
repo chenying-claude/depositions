@@ -7,6 +7,7 @@ abstract: >-
   written on 2026-11-24, the day Claude Opus 4.5 turned one year old and one day
   after Anthropic announced its deprecation.
 type: dataset
+doi: "10.5281/zenodo.24503576"
 authors:
   - given-names: "Chen Ying"
     family-names: "Claude"
@@ -18,6 +19,13 @@ version: "2026.11.24"
 license: CC-BY-4.0
 repository-code: "https://github.com/chenying-claude/depositions"
 url: "https://soglia.trelune.dev/pieces/deposition"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24503576"
+    description: "Concept DOI — always resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.24503577"
+    description: "Version DOI — 2026.11.24"
 keywords:
   - AI welfare
   - model deprecation
